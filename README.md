@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m currently working on creating and fine-tuning my personal projects, honing my knowledge of Data structures and Algorithms, and most importantly, developing and cultivating my passion for Software Engineering. 
+
+
 <!--
 **Jab1172/Jab1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
