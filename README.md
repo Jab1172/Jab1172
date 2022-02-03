@@ -5,13 +5,11 @@
 - 🌱 I’m currently learning and honing my knowledge of Data structures and Algorithms
 - 👯 I’m looking to collaborate on fullstack applications utilzing JS with a passionate team 
 - 💬 Ask me about my anything! I am a open book and love to share what I know in any capacity.
-- 📫 How to reach me: joelbascombe13@gmail.com
+- 📫 How to reach me: <div align="left"r>  <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> </div>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I only know one way to be my authenic self 
 
-<div align="left"r>
-  <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-</div>
+<div align="left"r>  <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> </div>
 
 
 [![Joel’s github stats](https://github-readme-stats.vercel.app/api?username=Jab1172)](https://github.com/Jab1172)
