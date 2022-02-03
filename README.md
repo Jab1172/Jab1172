@@ -1,12 +1,22 @@
-### Hi there 👋
+### Hi there I'm Joel 👋
 
-I’m currently working on creating and fine-tuning my personal projects, honing my knowledge of Data structures and Algorithms, and most importantly, developing and cultivating my passion for Software Engineering. 
+
+- 🔭 I’m currently working on creating and fine-tuning my personal projects
+- 🌱 I’m currently learning and honing my knowledge of Data structures and Algorithms
+- 👯 I’m looking to collaborate on fullstack applications utilzing JS with a passionate team 
+- 💬 Ask me about my anything! I am a open book and love to share what I know in any capacity.
+- 📫 How to reach me: joelbascombe13@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I only know one way to be my authenic self 
+- 
+<div align=center>
+  <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+</div>
 
 [![Joel’s github stats](https://github-readme-stats.vercel.app/api?username=Jab1172)](https://github.com/Jab1172)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Jab1172&layout=compact)](https://github.com/Jab1172)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Jab1172&layout=compact)](https://github.com/Jab1172) -->
 
-
-h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
@@ -19,15 +29,4 @@ h3 align="left">Languages and Tools:</h3>
 
 <!--
 **Jab1172/Jab1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
