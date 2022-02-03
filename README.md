@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
-<div>
+
 [![Joel’s github stats](https://github-readme-stats.vercel.app/api?username=Jab1172)](https://github.com/Jab1172)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Jab1172&layout=compact)](https://github.com/Jab1172) -->
-</div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
