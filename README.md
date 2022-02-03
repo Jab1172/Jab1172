@@ -8,15 +8,15 @@
 - 📫 How to reach me: joelbascombe13@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I only know one way to be my authenic self 
-- 
-<div align=center>
+
+<div align="left"r>
   <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
 [![Joel’s github stats](https://github-readme-stats.vercel.app/api?username=Jab1172)](https://github.com/Jab1172)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Jab1172&layout=compact)](https://github.com/Jab1172) -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
