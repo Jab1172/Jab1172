@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating and fine-tuning my personal projects
 - 🌱 I’m expanding my knowledge of Data structures and Algorithms
-- 👯 I’m looking to collaborate on fullstack applications utilzing JS with a passionate team 
+- 👯 I’m looking to collaborate on fullstack applications utilizing JS with a passionate team 
 - 💬 Ask me about anything! I am an open book and love to share what I know in any capacity.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I only know one way to be - my authenic self 
