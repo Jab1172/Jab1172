@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on creating and fine-tuning my personal projects
-- 🌱 I’m currently learning and honing my knowledge of Data structures and Algorithms
+- 🌱 I’m currently expanding my knowledge of Data structures and Algorithms
 - 👯 I’m looking to collaborate on fullstack applications utilzing JS with a passionate team 
-- 💬 Ask me about my anything! I am a open book and love to share what I know in any capacity.
+- 💬 Ask me about anything! I am an open book and love to share what I know in any capacity.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I only know one way to be my authenic self 
+- ⚡ Fun fact: I only know one way to be - my authenic self 
 -  📫 How to reach me: <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> </div>
 
 
