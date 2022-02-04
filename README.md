@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on fullstack applications utilizing JS with a passionate team 
 - 💬 Ask me about anything! I am an open book and love to share what I know in any capacity.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I only know one way to be - my authenic self 
+- ⚡ Fun fact: I only know one way to be - my authenic self ![image](https://user-images.githubusercontent.com/86635599/152449749-0e9dfad1-ca43-460e-b5a3-ec81fb35bd77.png)
+
 -  📫 How to reach me: <a href="https://www.linkedin.com/in/joel-bascombe13/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> </div>
 
 
